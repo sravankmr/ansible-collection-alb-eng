@@ -5,7 +5,7 @@ avi_credentials:
   password: "{{ lookup('env', 'PASSWORD') }}"
   api_version: "{{ lookup('env', 'API_VERSION') }}"
 
-# Controller credentials
+# Controller credentials [default]
 #export CONTROLLER="11.102.86.13"
 #export USERNAME="admin"
 #export PASSWORD="password"
