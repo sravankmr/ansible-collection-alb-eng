@@ -5,7 +5,7 @@
 vmware.alb.avi_cluster
 **********************************************
 
-**Module for setup of Cluster Avi RESTful Object**
+**Module for setup of Cluster Avi RESTful Objects**
 
 
 .. contents::
