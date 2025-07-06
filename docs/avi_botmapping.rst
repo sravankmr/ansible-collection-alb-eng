@@ -5,7 +5,7 @@
 vmware.alb.avi_botmapping
 **********************************************
 
-**Module for setup of BotMapping Avi RESTful Object**
+**Module for setup of BotMapping Avi RESTful Objects**
 
 
 .. contents::
