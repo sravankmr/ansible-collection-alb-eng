@@ -5,7 +5,7 @@
 vmware.alb.avi_systemlimits
 **********************************************
 
-**Module for setup of SystemLimits Avi RESTful Object**
+**Module for setup of SystemLimits Avi RESTful Objects**
 
 
 .. contents::

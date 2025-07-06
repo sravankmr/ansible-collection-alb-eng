@@ -5,7 +5,7 @@
 vmware.alb.avi_tenant
 **********************************************
 
-**Module for setup of Tenant Avi RESTful Object**
+**Module for setup of Tenant Avi RESTful Objects**
 
 
 .. contents::
